@@ -9,5 +9,5 @@ return string.toLowerCase()
 var uppercase = "HELLO!";
 
 function logShout(string){
-  console.log('HELLO!'); string.toUpperCase();
+  console.log('Hello!'); string.toUpperCase();
 }
